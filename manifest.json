@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tab-copy-plugin",
+	"name": "Tab Copy",
+	"version": "1.0.2",
+	"minAppVersion": "0.12.0",
+	"description": "通过命令自动复制当前激活的标签页名称和链接（根据data-type不同格式）到剪切板",
+	"author": "TracingOrigins",
+	"authorUrl": "https://yourwebsite.com",
+	"isDesktopOnly": false
+}
