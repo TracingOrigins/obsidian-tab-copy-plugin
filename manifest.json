@@ -3,7 +3,7 @@
 	"name": "Tab Copy",
 	"version": "1.0.2",
 	"minAppVersion": "0.12.0",
-	"description": "通过命令自动复制当前激活的标签页名称和链接（根据data-type不同格式）到剪切板",
+	"description": "一键复制当前标签页链接，支持双击标签页快速复制。Web标签生成Markdown链接，笔记标签生成Wiki链接，提升工作效率。",
 	"author": "TracingOrigins",
 	"authorUrl": "https://yourwebsite.com",
 	"isDesktopOnly": false
