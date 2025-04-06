@@ -5,6 +5,6 @@
 	"minAppVersion": "0.12.0",
 	"description": "一键复制当前标签页链接，支持双击标签页快速复制。Web标签生成Markdown链接，笔记标签生成Wiki链接，提升工作效率。",
 	"author": "TracingOrigins",
-	"authorUrl": "https://yourwebsite.com",
+	"authorUrl": "https://github.com/TracingOrigins",
 	"isDesktopOnly": false
 }
